@@ -1,3 +1,16 @@
+# ECE 562 fork of RISC-V Core with custom ISA.
+
+## getting initial core working (http://github.com/ultraembedded/riscv)
+
+
+
+
+
+# Custom ISA
+
+---
+# README FROM ORIGINAL PROJECT BELOW
+
 # RISC-V Core
 
 Github: http://github.com/ultraembedded/riscv
