@@ -3,7 +3,11 @@
 ## getting initial core working (http://github.com/ultraembedded/riscv)
 
 
+Using Xilinx Vivado
+Host: Ubuntu 19.04 (regolith DE)
 
+
+Device: xc7a100tcsg324-1 (active)
 
 
 # Custom ISA
